@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Aman
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Python+Developer;AI+Enthusiast;Open+Source+Learner)
 
+![snake gif](https://github.com/Amx-code1/Amx-code1/blob/output/github-contribution-grid-snake.svg)
+
 💻 **Software Developer | Python | AI | Web Development**
 🚀 Building real-world projects that solve practical problems
 📍 India
