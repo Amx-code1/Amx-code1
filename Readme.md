@@ -29,15 +29,13 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Amx-code1\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Amx-code1&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amx-code1\&theme=tokyonight\&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Amx-code1&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amx-code1\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amx-code1&layout=compact&theme=radical&hide_border=true)
 
 ## 🐍 Contribution Graph
 
