@@ -12,6 +12,9 @@ jobs:
     permissions:
       contents: write
 
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ✅ IMPORTANT FIX
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
