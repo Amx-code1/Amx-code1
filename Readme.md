@@ -29,18 +29,19 @@
 
 ---
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amx-code1&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amx-code1&show_icons=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amx-code1&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Amx-code1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amx-code1&layout=compact&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amx-code1&layout=compact&cache_seconds=86400" />
 </p>
 
 
