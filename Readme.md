@@ -41,7 +41,6 @@
 
 ## 🐍 Contribution Graph
 
-![snake gif](https://raw.githubusercontent.com/Amx-code1/Amx-code1/output/github-contribution-grid-snake.svg)
 
 ![snake gif](https://github.com/Amx-code1/Amx-code1/blob/output/github-contribution-grid-snake.svg)
 
