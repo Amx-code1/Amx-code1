@@ -29,8 +29,7 @@
 
 ---
 
-
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amx-code1&show_icons=true&cache_seconds=86400" />
@@ -44,11 +43,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amx-code1&layout=compact&cache_seconds=86400" />
 </p>
 
+---
 
 ## 🐍 Contribution Graph
 
-
-![snake gif](https://github.com/Amx-code1/Amx-code1/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amx-code1/Amx-code1/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -86,7 +87,7 @@ Scalable modular plug-in architecture
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/aman-mishra-01a334369
-* 📧 Email: xtreme.amx.45@gmail.com
+* 📧 Email: [xtreme.amx.45@gmail.com](mailto:xtreme.amx.45@gmail.com)
 
 ---
 
