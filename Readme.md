@@ -32,17 +32,18 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amx-code1&show_icons=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amx-code1&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amx-code1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Amx-code1&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Amx-code1&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amx-code1&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Amx-code1&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Amx-code1&theme=github_dark" />
 </p>
-
 ---
 
 ## 🐍 Contribution Graph
