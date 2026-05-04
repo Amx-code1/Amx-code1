@@ -63,6 +63,28 @@ AI model using CNN to detect plant diseases from images
 
 ---
 
+
+### 🤖 AI CRM for Healthcare Professionals
+
+AI-powered CRM system for managing workflows and insights
+
+* Intelligent data-driven recommendations
+* Modular and scalable design
+  🔗 https://github.com/Amx-code1/ai-crm-hcp
+
+---
+
+### 🔗 URL Shortener
+
+Backend service to generate and manage short URLs
+
+* REST API-based architecture
+* URL encoding/decoding and routing
+  🔗 https://github.com/Amx-code1/url_shortener
+
+---
+
+
 ### 🪐 NASA JunoCam Processing
 
 Image processing pipeline for space data visualization
@@ -105,3 +127,8 @@ Scalable modular plug-in architecture
 ---
 
 ⭐ *If you like my work, consider giving a star!*
+
+
+
+
+
