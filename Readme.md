@@ -1,24 +1,19 @@
 # 👋 Hi, I'm Aman
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Python+Developer;AI+Enthusiast;Open+Source+Learner)
 
-![snake gif](https://github.com/Amx-code1/Amx-code1/blob/output/github-contribution-grid-snake.svg)
-
-💻 **Software Developer | Python | AI | Web Development**
-🚀 Building real-world projects that solve practical problems
-📍 India
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF\&size=28\&center=true\&vCenter=true\&width=600\&lines=Software+Developer;AI+%26+ML+Enthusiast;Full+Stack+Learner;Building+Real+World+Projects)
 
 ---
 
-## ⚡ About Me
+## 🚀 About Me
 
-* 🔭 Currently working on **AI & Full Stack Projects**
-* 🌱 Learning **Advanced Python, AI Tools & Web Dev**
-* 🎯 Goal: Become a **Top Software Engineer + AI Developer**
-* ⚡ Fun fact: I love building things from scratch
+💻 Passionate **Software Developer** focused on building impactful projects
+🤖 Interested in **Artificial Intelligence & Machine Learning**
+🌐 Exploring **Full Stack Development**
+🎯 Goal: Become a **Top Software Engineer**
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 Tech Stack
 
 ### 💻 Languages
 
@@ -34,13 +29,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Amx-code1\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Amx-code1\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amx-code1\&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amx-code1\&theme=tokyonight\&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amx-code1\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amx-code1\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🐍 Contribution Graph
+
+![snake gif](https://github.com/Amx-code1/Amx-code1/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -48,44 +49,50 @@
 
 ### 🌿 Plant Disease Detection
 
-AI-based system to detect plant diseases using CNN
+AI model using CNN to detect plant diseases from images
 🔗 https://github.com/Amx-code1/Plant-diseeases-detection-dexterix3.0
 
 ---
 
 ### 🪐 NASA JunoCam Processing
 
-Image processing pipeline for NASA space data
+Image processing pipeline for space data visualization
 🔗 https://github.com/Amx-code1/NASA_JunoCAM-master
 
 ---
 
 ### ⚙️ SIH Plug-in System
 
-Modular plug-in architecture for scalable applications
+Scalable modular plug-in architecture
 🔗 https://github.com/Amx-code1/SIH_Plug-in-main
 
 ---
 
-## 🎯 Current Focus
+## 🏆 Achievements & Focus
 
-* 🤖 Artificial Intelligence Projects
-* 🌐 Full Stack Development
-* 🧠 Problem Solving & DSA
+* 🚀 Building real-world AI applications
+* 🧠 Practicing Data Structures & Algorithms
+* 💡 Learning system design fundamentals
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: (add your link)
-* 📧 Email: (your email)
+* 💼 LinkedIn: https://www.linkedin.com/in/aman-mishra-01a334369
+* 📧 Email: xtreme.amx.45@gmail.com
 
 ---
 
-## 🧠 Quote I Follow
+## ⚡ Profile Views
 
-> "Consistency beats talent when talent doesn’t work hard."
+![Profile Views](https://komarev.com/ghpvc/?username=Amx-code1\&color=blue)
 
 ---
 
-⭐ **If you like my work, consider giving a star!**
+## 🧠 Mindset
+
+> "First solve the problem. Then write the code."
+
+---
+
+⭐ *If you like my work, consider giving a star!*
